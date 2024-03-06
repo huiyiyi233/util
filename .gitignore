@@ -1,0 +1,13 @@
+.idea
+.run
+dist
+log
+*.exe
+*.yaml
+*.xml
+任务.md
+*.7z
+*.zip
+*.xmind
+go.mod
+go.sum
