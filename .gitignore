@@ -9,5 +9,3 @@ log
 *.7z
 *.zip
 *.xmind
-go.mod
-go.sum
